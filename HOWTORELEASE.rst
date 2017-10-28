@@ -20,7 +20,7 @@ taking a lot of time to make a new one.
 
    * **minor releases**: from the latest ``features``; then merge with the latest ``master``;
 
-   Ensure your are in a clean work tree.
+   Ensure you are in a clean work tree.
 
 #. Generate docs, changelog, announcements and upload a package to
    your ``devpi`` staging server::
